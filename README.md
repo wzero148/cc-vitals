@@ -1,4 +1,4 @@
-# Claude Code Statusline
+# cc-vitals
 
 在 Claude Code 输入框下方**实时显示**当前会话关键数据的状态栏脚本：
 
