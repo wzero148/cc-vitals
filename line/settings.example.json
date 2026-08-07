@@ -1,0 +1,6 @@
+{
+  "statusLine": {
+    "type": "command",
+    "command": "node <statusline.js 的绝对路径>"
+  }
+}
